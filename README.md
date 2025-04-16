@@ -6,8 +6,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Tyler9912/vulnerability-management-project)**
-- 
--**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Tyler9912/programmatic-vulnerability-remediation)** -
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Tyler9912/programmatic-vulnerability-remediation)**
+
 
 
 ## 🚨 Threat Hunting and Security Operations
