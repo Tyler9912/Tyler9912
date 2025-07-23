@@ -21,7 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 Interested in seeing my academic foundation in IT and cybersecurity?  
 View capstone-level coursework and concept papers here:  
-👉 [Academic Portfolio Repository](https://github.com/Tyler9912/academic-portfolio)
+- **[Academic Portfolio Repository](https://github.com/Tyler9912/academic-portfolio)**
 
 ## 🤳 Connect With Me
 
