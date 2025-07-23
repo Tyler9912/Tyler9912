@@ -16,9 +16,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
----
 
-## 🎓 Academic Portfolio (Optional)
+## 🎓 Academic Portfolio 
 
 Interested in seeing my academic foundation in IT and cybersecurity?  
 View capstone-level coursework and concept papers here:  
