@@ -16,6 +16,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+---
+
+## 🎓 Academic Portfolio (Optional)
+
+Interested in seeing my academic foundation in IT and cybersecurity?  
+View capstone-level coursework and concept papers here:  
+👉 [Academic Portfolio Repository](https://github.com/Tyler9912/academic-portfolio)
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="Tyler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
