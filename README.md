@@ -30,9 +30,6 @@ View capstone-level coursework and concept papers here:
 [<img align="left" alt="Tyler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/tyler
-[youtube]: https://www.youtube.com/c/tyler
-[instagram]: https://www.instagram.com/tyler
 [linkedin]: https://linkedin.com/in/tyler9912
 
 <!--
