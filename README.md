@@ -25,5 +25,5 @@ View capstone-level coursework and concept papers here:
 
 ## 🤳 Connect With Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/tyler9912)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tyler9912-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/tyler9912)
 
